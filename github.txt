@@ -1,0 +1,42 @@
+diseño elastico 
+response disign
+
+mobile first.
+
+
+aplicaiones:
+- Path
+- vine
+- instagram
+
+retina display (iphone 4 para arriba)	
+	Mobile-Retina
+1px equivale a 4px
+
+*****************************
+
+FrontEnd
+BackEnd
+Base de Datos
+
+ancho minimo-> 320px
+320px(640px)
+maximo-> 1200
+
+************ 3
+FTP
+Transmisión de archivos
+Hosting barato normal --> /public_html/<-- FTP
+	index.php
+	imagenes
+	leonidas.jpg
+www.dogecoin.com
+
+SISTEMA DE CONTROL DE VERSIONES:
+	- SVN: Subversion
+	- Mercurial
+	- TFS
+	- CVS
+	- GIT (USAMOS ESTO), 
+	- GITHUB:
+		- RED SOCIAL DE PROGRAMADORS
