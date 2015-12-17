@@ -1,0 +1,16 @@
+*** PARA VPS(Servidor Virtual Privado)
+www.linode.com 
+www.digitalocean.com
+*** hosting
+www.infranetworking.com
+-------------------------------------------------------------------------
+diseño elastico y responsive design
+------------------------------------------------------------------------
+2. Introducción a CSS, Responsive Desing y Animaciones
+------------------------------------------------------------------------
+TAMAÑO DE FUENTE DEBERIA SER DE 16px(fuente legible).
+** retina dsiplay
+	 duplicar el tamaño de la imagen.
+	 si la imagen es 200x100, se debe estar de la fuente original(que debe ser grande) a 400x200
+
+** que es Git y GitHub?	

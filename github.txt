@@ -40,3 +40,20 @@ SISTEMA DE CONTROL DE VERSIONES:
 	- GIT (USAMOS ESTO), 
 	- GITHUB:
 		- RED SOCIAL DE PROGRAMADORS
+
+** COMO FUNCIONA GITHUB:
+Repositorio de codigo GITHUB (master)
+
+1. Multiples versiones del mismo código
+2. cambios delta
+	base de Datos atomica del código
+3. Historial de cada archivo.
+4. Multiples personas sobre el mismo archivo.
+5. CULPA AL CULPABLE
+6. Ramas (branches)
+	* master (github.com) REPOSITORIO PRINCIPAL
+	* master (disco duro) REPOSITORIO LOCAL
+		* master
+			--MERGE (funcion entre la rama experimental - master)
+		* experimental local
+	* master (servidor.com) REPOSITORIO PRODUCCION
